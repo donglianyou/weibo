@@ -73,7 +73,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    weibo app
+                    weibo
                 </div>
 
             </div>
