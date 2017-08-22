@@ -3,7 +3,7 @@
 
 // Bootstrap
 @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
-
+/* header */
 $navbar-color:#3c3e42;
 
 body {
@@ -62,6 +62,13 @@ p {
   font-weight:bold;
   &:hover {
     color: #fff;
+  }
+}
+
+#logout {
+  cursor: default;
+  &:hover {
+    background-color: transparent;
   }
 }
 

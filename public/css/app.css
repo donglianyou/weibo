@@ -8350,6 +8350,8 @@ button.close {
   }
 }
 
+/* header */
+
 body {
   padding-top: 60px;
 }
@@ -8413,6 +8415,14 @@ p {
 
 #logo:hover {
   color: #fff;
+}
+
+#logout {
+  cursor: default;
+}
+
+#logout:hover {
+  background-color: transparent;
 }
 
 /* footer */
