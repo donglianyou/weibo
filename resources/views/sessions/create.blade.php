@@ -19,7 +19,9 @@
                         <input type="password" class="form-control" name="password">
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" name="remember"> 记住我</label>
+                        <label>
+                            <input type="checkbox" name="remember"> 记住我
+                        </label>
                     </div>
                     <button class="btn btn-primary" type="submit">登录</button>
                 </form>
